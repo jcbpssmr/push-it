@@ -1,0 +1,1 @@
+In chapter 10 python crash course we learn about file and extensions. We can write a program that allows python to read a txt file by using the .read_text() function. We can read the file or loop through it to find specific information like a specific date in pi. 
